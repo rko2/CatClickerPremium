@@ -1,3 +1,6 @@
-model: {
-  count: function()
+$(function()){
+
+  model: {
+    count: function()
+  }
 }
